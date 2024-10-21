@@ -20,9 +20,9 @@ Exemplo de distribuição: Android, desenvolvido pelo Google, usado na maioria d
 Dependendo do ambiente e do uso (servidor, desktop, embarcado, etc.), diferentes distribuições podem ser mais adequadas. Por exemplo, se o objetivo for estabilidade para servidores, distribuições como Debian ou CentOS podem ser preferíveis, enquanto para desktops, Ubuntu ou Fedora podem ser melhores.<br>
 Verificar se já há uma distribuição embarcada:
 Algumas distribuições já vêm com pacotes e configurações pré-instaladas para facilitar o uso em aplicações específicas, como servidores web, desenvolvimento ou desktops. Verificar se a distribuição oferece suporte ou tem versões voltadas diretamente para seu propósito (ex.: Ubuntu Server para servidores) pode poupar tempo na configuração.<br>
-Analisar o hardware e verificar a compatibilidade com a distribuição:
+Analisar o hardware e verificar a compatibilidade com a distribuição:<br>
 Nem todas as distribuições funcionam igualmente bem em todo hardware. Por exemplo, distribuições mais leves como Lubuntu ou Xubuntu podem ser ideais para máquinas com recursos limitados, enquanto outras distribuições mais completas podem exigir mais do hardware. A compatibilidade com drivers também é importante.<br>
-Confiabilidade da distribuição:
+Confiabilidade da distribuição:<br>
 A confiabilidade da distribuição é essencial, especialmente em ambientes de produção ou servidores. Isso inclui a comunidade de suporte, a frequência de atualizações de segurança, o ciclo de lançamentos, e a estabilidade geral do sistema.<br>
 Suporte da comunidade: Se você precisar de ajuda, é importante que a distribuição tenha uma comunidade ativa ou suporte comercial (como no caso do Ubuntu e do Red Hat).
 Segurança: Algumas distribuições têm um foco maior em segurança, como o Debian, que é conhecido por pacotes estáveis e atualizações de segurança.
