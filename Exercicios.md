@@ -28,3 +28,43 @@ Suporte da comunidade:<br> Se você precisar de ajuda, é importante que a distr
 Segurança: Algumas distribuições têm um foco maior em segurança, como o Debian, que é conhecido por pacotes estáveis e atualizações de segurança.
 Facilidade de uso: Dependendo do nível de experiência, distribuições mais fáceis de usar como o Ubuntu podem ser mais indicadas.
 Esses quatro pontos são essenciais ao escolher a distribuição Linux correta para suas necessidades específicas.
+
+<h2>4 - Cite três dispositivos que rodam o sistema operacional Android, além de smartphones.</h2>
+
+TVs: Dispositivos como Android TV ou Google TV são comuns em smart TVs e dispositivos de streaming como o Nvidia Shield.<br>
+Relógios: O sistema Wear OS (baseado em Android) é utilizado em smartwatches, como o Fossil Gen 5 e o Samsung Galaxy Watch 4.<br>
+Tablets: Diversos tablets, como os Samsung Galaxy Tab ou os tablets da Lenovo, utilizam Android como sistema operacional.<br>
+Consoles de jogos: Consoles como o Nvidia Shield TV e o OUYA (embora descontinuado) foram projetados com Android como seu sistema operacional principal.<br>
+Automóveis: Android Automotive OS é uma versão do Android projetada para sistemas de infotainment em veículos. Marcas como Volvo e Polestar já utilizam essa tecnologia.<br>
+
+<h2>5 - Explique três principais vantagens da computação em nuvem.</h2>
+
+Escalabilidade:<br>
+A computação em nuvem permite que empresas escalem seus recursos de forma rápida e eficiente, de acordo com a demanda. Isso significa que você pode aumentar ou diminuir a capacidade de armazenamento, poder de processamento, ou número de servidores em minutos, sem precisar investir em infraestrutura física adicional. Isso é particularmente útil para lidar com picos de uso, como em períodos de alta demanda.<br>
+Redução de custos:<br>
+Uma das maiores vantagens da nuvem é a redução significativa de custos operacionais. Com a nuvem, não é necessário investir em hardware caro, manutenção de servidores, ou espaço físico para um data center. Em vez disso, as empresas pagam apenas pelos recursos que utilizam, com base em um modelo de pagamento por uso ("pay-as-you-go"), o que torna os custos mais flexíveis e previsíveis.<br>
+Acessibilidade e colaboração:<br>
+A computação em nuvem permite que usuários acessem seus dados e aplicativos de qualquer lugar com uma conexão à internet, usando diferentes dispositivos. Isso facilita o trabalho remoto e a colaboração entre equipes distribuídas globalmente. Vários usuários podem trabalhar simultaneamente em arquivos compartilhados em tempo real, o que aumenta a eficiência e a produtividade nas empresas.<br>
+
+<h2>6 - Considerando custo e desempenho, quais distribuições são mais adequadas para um negócio que visa reduzir custos de licenciamento, mantendo o desempenho no mais alto nível? Explique o porquê.</h2>
+
+Existem várias distribuições Linux disponíveis, e embora muitas sejam de código aberto, nem todas são gratuitas para uso completo. Por exemplo, o Red Hat Enterprise Linux (RHEL) oferece suporte pago, apesar de seu código ser livre. No entanto, alternativas como o CentOS Stream podem ser usadas para evitar custos de licenciamento, mantendo a compatibilidade e o desempenho.<br>
+Para ambientes desktop, o Ubuntu é amplamente recomendado por sua interface simples, facilidade de uso e suporte de longo prazo (LTS), que garante estabilidade. Isso o torna uma excelente escolha para empresas que desejam reduzir custos de licenciamento, mantendo a produtividade alta.<br>
+No caso de servidores, o Debian é uma escolha popular devido à sua confiabilidade, estabilidade, e ciclos de suporte prolongados. Sendo totalmente gratuito e com uma forte comunidade de suporte, o Debian é ideal para empresas que buscam reduzir custos de licenciamento sem comprometer o desempenho ou a segurança.
+
+<h2>7 - Quais são as principais vantagens do Raspberry Pi e quais funções ele pode assumir nos negócios?</h2>
+
+O Raspberry Pi é um computador de placa única que usa o sistema operacional Raspberry Pi OS, baseado no Debian. Suas principais vantagens incluem baixo custo, tamanho compacto e eficiência energética, o que o torna ideal para projetos com orçamento limitado e espaço físico reduzido. Ele é altamente versátil e pode ser utilizado não apenas como um desktop básico, mas também para uma ampla gama de aplicações, incluindo servidores leves, sistemas de automação, prototipagem de IoT e educação.<br>
+Nos negócios, o Raspberry Pi pode assumir várias funções, como:<br>
+Servidor de arquivos ou de mídia: Pequenas empresas podem usá-lo como um servidor de armazenamento acessível.<br>
+Controle de automação: Ideal para controlar sistemas de automação em escritórios ou processos industriais simples.<br>
+Digital signage: Usado para exibir informações ou anúncios em telas em lojas ou escritórios.<br>
+Desenvolvimento de protótipos: Empresas podem usá-lo para criar protótipos de novos produtos de hardware ou soluções IoT.<br>
+
+<h2>8 - Que gama de distribuições a Amazon Cloud Services e o Google Cloud oferecem? Cite pelo menos três comuns e duas diferentes.</h2>
+
+Ubuntu:<br> Uma das distribuições Linux mais populares, usada tanto para servidores quanto para desktops, conhecida por sua facilidade de uso e suporte LTS.<br>
+Debian:<br> Base estável e confiável, muito utilizada em servidores que requerem segurança e estabilidade.<br>
+Red Hat Enterprise Linux (RHEL):<br> Uma das distribuições empresariais mais utilizadas, com suporte pago e foco em ambientes corporativos.<br>
+AWS oferece Amazon Linux:<br> Uma distribuição otimizada pela própria Amazon para seus serviços em nuvem, com foco em integração e desempenho nos serviços AWS.<br>
+GCP oferece Container-Optimized OS:<br> Um sistema operacional otimizado pelo Google especificamente para rodar contêineres no Google Cloud, com um foco em segurança e desempenho.<br>
