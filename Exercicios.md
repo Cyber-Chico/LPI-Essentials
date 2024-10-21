@@ -63,8 +63,8 @@ Desenvolvimento de protótipos: Empresas podem usá-lo para criar protótipos de
 
 <h2>8 - Que gama de distribuições a Amazon Cloud Services e o Google Cloud oferecem? Cite pelo menos três comuns e duas diferentes.</h2>
 
-Ubuntu:<br> Uma das distribuições Linux mais populares, usada tanto para servidores quanto para desktops, conhecida por sua facilidade de uso e suporte LTS.<br>
-Debian:<br> Base estável e confiável, muito utilizada em servidores que requerem segurança e estabilidade.<br>
-Red Hat Enterprise Linux (RHEL):<br> Uma das distribuições empresariais mais utilizadas, com suporte pago e foco em ambientes corporativos.<br>
-AWS oferece Amazon Linux:<br> Uma distribuição otimizada pela própria Amazon para seus serviços em nuvem, com foco em integração e desempenho nos serviços AWS.<br>
-GCP oferece Container-Optimized OS:<br> Um sistema operacional otimizado pelo Google especificamente para rodar contêineres no Google Cloud, com um foco em segurança e desempenho.<br>
+Ubuntu: Uma das distribuições Linux mais populares, usada tanto para servidores quanto para desktops, conhecida por sua facilidade de uso e suporte LTS.<br>
+Debian: Base estável e confiável, muito utilizada em servidores que requerem segurança e estabilidade.<br>
+Red Hat Enterprise Linux (RHEL): Uma das distribuições empresariais mais utilizadas, com suporte pago e foco em ambientes corporativos.<br>
+AWS oferece Amazon Linux: Uma distribuição otimizada pela própria Amazon para seus serviços em nuvem, com foco em integração e desempenho nos serviços AWS.<br>
+GCP oferece Container-Optimized OS: Um sistema operacional otimizado pelo Google especificamente para rodar contêineres no Google Cloud, com um foco em segurança e desempenho.<br>
