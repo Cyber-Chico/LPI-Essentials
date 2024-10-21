@@ -24,7 +24,7 @@ Analisar o hardware e verificar a compatibilidade com a distribuição:<br>
 Nem todas as distribuições funcionam igualmente bem em todo hardware. Por exemplo, distribuições mais leves como Lubuntu ou Xubuntu podem ser ideais para máquinas com recursos limitados, enquanto outras distribuições mais completas podem exigir mais do hardware. A compatibilidade com drivers também é importante.<br>
 Confiabilidade da distribuição:<br>
 A confiabilidade da distribuição é essencial, especialmente em ambientes de produção ou servidores. Isso inclui a comunidade de suporte, a frequência de atualizações de segurança, o ciclo de lançamentos, e a estabilidade geral do sistema.<br>
-Suporte da comunidade: Se você precisar de ajuda, é importante que a distribuição tenha uma comunidade ativa ou suporte comercial (como no caso do Ubuntu e do Red Hat).
+Suporte da comunidade:<br> Se você precisar de ajuda, é importante que a distribuição tenha uma comunidade ativa ou suporte comercial (como no caso do Ubuntu e do Red Hat).
 Segurança: Algumas distribuições têm um foco maior em segurança, como o Debian, que é conhecido por pacotes estáveis e atualizações de segurança.
 Facilidade de uso: Dependendo do nível de experiência, distribuições mais fáceis de usar como o Ubuntu podem ser mais indicadas.
 Esses quatro pontos são essenciais ao escolher a distribuição Linux correta para suas necessidades específicas.
