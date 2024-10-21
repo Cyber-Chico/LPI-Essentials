@@ -1,6 +1,21 @@
-<h1>Lição 1</h1>
-O Linux, criado em 1991 por Linus Torvalds e inspirado no Unix, é um dos sistemas operacionais mais populares, amplamente utilizado em várias plataformas, com base em uma comunidade global de desenvolvedores. As distribuições Linux são pacotes que combinam o kernel Linux com softwares específicos para atender a diferentes necessidades, como Debian, voltado para confiabilidade e liberdade de software, e Ubuntu, que foca na facilidade de uso. Empresas como Red Hat e SUSE oferecem distribuições Linux comerciais com suporte corporativo, enquanto projetos como CentOS e Fedora são variações gratuitas com foco em servidores e desktop, respectivamente.
+<h1>LPI Linux Essentials Study Guide</h1>
+Este repositório foi criado como parte do meu estudo para a certificação LPI Linux Essentials. O objetivo é documentar minha jornada de aprendizado, compartilhar recursos úteis, e construir um guia passo a passo para a preparação do exame.
 
-Sistemas embarcados, como o Raspberry Pi, utilizam versões de Linux para funções específicas em dispositivos inteligentes e automação. O Android, baseado em Linux, é amplamente usado em dispositivos móveis, oferecendo flexibilidade e integração com o ecossistema do Google.
+<h2>Objetivos</h2>
+Familiarizar-se com os conceitos fundamentais do sistema operacional Linux.
+Praticar comandos essenciais e compreender a estrutura de diretórios do Linux.
+Aprender sobre ferramentas de linha de comando, permissões de arquivos, processos, e muito mais.
+Preparar-se para o exame de certificação Linux Essentials oferecido pela Linux Professional Institute (LPI).
 
-Na nuvem, o Linux domina, sendo a base de até 90% das cargas de trabalho. Plataformas como AWS e Google Cloud oferecem uma gama de distribuições Linux otimizadas para uso em infraestruturas como serviço (IaaS), permitindo provisionamento rápido de servidores virtuais baseados em Linux.
+<h2>Tópicos principais</h2>
+O que é o Linux: história e filosofia do software livre.
+Usando a linha de comando: navegação, gerenciamento de arquivos e permissões.
+Introdução a scripts de shell: automação básica de tarefas.
+Usuários e permissões: controle de acesso ao sistema.
+Redes e internet: fundamentos de redes e configurações básicas.
+Segurança básica: noções de segurança em sistemas Linux.
+
+<h2>Como utilizar este repositório</h2>
+Cada diretório contém materiais e exemplos práticos relacionados a diferentes tópicos abordados no exame LPI Linux Essentials.
+Os arquivos são organizados de forma a facilitar a leitura e prática.
+Acompanhe as notas em NOTES.md para dicas de estudo e referências adicionais.
