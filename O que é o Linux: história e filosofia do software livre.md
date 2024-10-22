@@ -7,13 +7,13 @@ Na nuvem, o Linux domina, sendo a base de até 90% das cargas de trabalho. Plata
 
 <h2>Resumo</h2>
 <strong>Nesta lição você aprendeu:</strong><br>
-Quais distribuições o Linux tem<br>
-O que são sistemas embarcados Linux<br>
-Como os sistemas embarcados Linux são usados<br>
-Diferentes aplicações do Android<br>
-Diferentes usos de um Raspberry Pi<br>
-O que é Computação em Nuvem<br>
-Qual o papel do Linux na computação em nuvem
+Quais distribuições o Linux tem.<br>
+O que são sistemas embarcados Linux.<br>
+Como os sistemas embarcados Linux são usados.<br>
+Diferentes aplicações do Android.<br>
+Diferentes usos de um Raspberry Pi.<br>
+O que é Computação em Nuvem.<br>
+Qual o papel do Linux na computação em nuvem.
 
 <h1>Lição 2</h1>
 A introdução explica que aplicativos em um sistema Linux são programas voltados para o usuário, com várias opções disponíveis para diferentes tarefas, como aplicativos de escritório, navegadores e editores de multimídia. O usuário deve escolher o melhor aplicativo para suas necessidades.<br>
@@ -38,12 +38,10 @@ A introdução explica que aplicativos em um sistema Linux são programas voltad
 
 <h2>Resumo</h2>
 <strong>Nesta lição, você aprendeu:</strong><br>
-Os sistemas de gerenciamento de pacotes usados ​​nas principais distribuições Linux<br>
-Aplicativos de código aberto que podem editar formatos de arquivo populares<br>
-Os programas de servidor subjacentes a muitos serviços importantes da Internet e da rede local<br>
-Linguagens de programação comuns e seus usos<br>
-
-
+Os sistemas de gerenciamento de pacotes usados ​​nas principais distribuições Linux.<br>
+Aplicativos de código aberto que podem editar formatos de arquivo populares.<br>
+Os programas de servidor subjacentes a muitos serviços importantes da Internet e da rede local.<br>
+Linguagens de programação comuns e seus usos.<br>
 
 <h1>Lição 3</h1>
 O software livre refere-se a programas que garantem ao usuário quatro liberdades essenciais, que são:<br><br>
