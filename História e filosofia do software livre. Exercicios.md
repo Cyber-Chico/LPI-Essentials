@@ -145,3 +145,20 @@ A abreviação FLOSS significa Free/Libre and Open Source Software. Ela combina 
 Se você deseja garantir que seu software livre, assim como todos os trabalhos futuros baseados nele, permaneçam livres, a GPL versão 3 (GNU General Public License, versão 3) é uma excelente escolha.
 
 A GPLv3 é uma licença copyleft que exige que qualquer modificação ou derivado do software também seja distribuído sob os mesmos termos da licença original. Isso significa que, se alguém modificar o seu software, essa pessoa será obrigada a disponibilizar o código-fonte modificado sob a mesma licença, preservando as quatro liberdades do software livre para todos os usuários futuros.
+
+<h2>Qual das seguintes licenças você chamaria de permissiva e qual você chamaria de copyleft?</h2>
+
+Licença BSD simplificada -  Permissiva
+
+GPL versão 3 - Copyleft
+
+CC POR -  Permissiva
+
+CC BY-SA - Copyleft
+
+Explicação:
+
+<strong>A Licença BSD simplificada é permissiva</strong>, pois permite que o software seja modificado e redistribuído, até mesmo sob licenças proprietárias.<br>
+<strong>A GPL versão 3 é uma licença copyleft</strong>, que exige que as versões modificadas também sejam distribuídas sob os mesmos termos (mantendo o software livre).<br>
+<strong>CC BY é uma licença permissiva da Creative Commons</strong>, permitindo que as obras sejam usadas livremente, desde que a atribuição ao autor seja dada.<br>
+<strong>CC BY-SA é uma licença copyleft</strong>, pois exige que obras derivadas sejam licenciadas sob os mesmos termos (compartilhamento pela mesma licença).<br>
