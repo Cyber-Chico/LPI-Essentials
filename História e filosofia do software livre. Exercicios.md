@@ -123,3 +123,14 @@ sudo apt-get install libreoffice <br>
 
 <h2>11 - Todo ano, o linuxquestions.org promove uma pesquisa sobre os aplicativos Linux mais populares. Visite https://www.linuxquestions.org/questions/2018-linuxquestions-org-members-choice-awards-128/ e descubra quais aplicativos de desktop são mais populares entre usuários experientes do Linux.</h2>
 Navegador: Firefox. Cliente de e-mail: Thunderbird. Reprodutor de mídia: VLC. Editor de gráficos raster: GIMP.<br>
+
+<h1>Lição 3</h1>
+<h2>O que são — em poucas palavras — as “quatro liberdades” definidas por Richard Stallman e pela Free Software Foundation?
+
+liberdade 0
+
+liberdade 1
+
+liberdade 2
+
+liberdade 3</h2>
