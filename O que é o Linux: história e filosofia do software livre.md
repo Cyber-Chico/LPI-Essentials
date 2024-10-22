@@ -58,3 +58,15 @@ A escolha da licença é crucial, pois afeta a cooperação com outros projetos,
 Open Source Initiative (OSI), fundada em 1998, que cuida de questões de licenciamento de código aberto. A OSI desenvolveu um processo para verificar a conformidade de licenças com sua Open Source Definition, aprovando mais de 80 licenças, incluindo algumas que contradizem o princípio de copyleft, como as licenças BSD.
 
 As licenças BSD são permissivas, permitindo ampla liberdade de uso e modificação do software, sem exigir que versões modificadas também sejam abertas. Um exemplo é a Licença BSD de 2 Cláusulas, que é simples e permite a redistribuição com poucas condições: manter os avisos de direitos autorais e a isenção de responsabilidade, tanto no código-fonte quanto em binários. Essas licenças dão aos desenvolvedores liberdade máxima para decidir se suas modificações serão abertas ou comerciais.
+
+código aberto foi expandido para além do software, influenciando áreas como conhecimento e criatividade. Esse movimento levou à criação de fundações que promovem o compartilhamento de trabalho de forma colaborativa, sendo a Creative Commons (CC) a mais importante iniciativa nesse sentido.
+
+A Creative Commons oferece licenças que permitem aos autores escolher como desejam compartilhar suas obras, mantendo certos direitos. O autor decide quais permissões conceder, resultando em seis licenças possíveis:
+
+<strong>CC BY:</strong> Permite qualquer uso, desde que o autor seja citado.<br>
+<strong>CC BY-SA:</strong> Como CC BY, mas obras derivadas devem manter a mesma licença.<br>
+<strong>CC BY-ND:</strong> Permite redistribuição, mas sem modificações.<br>
+<strong>CC BY-NC:</strong> Uso permitido apenas para fins não comerciais, com atribuição.<br>
+<strong>CC BY-NC-SA:</strong> Não comercial e com compartilhamento pela mesma licença.<br>
+<strong>CC BY-NC-ND:</strong> A mais restritiva, permitindo apenas redistribuição sem alterações e para fins não comerciais.<br><br>
+Essas licenças proporcionam flexibilidade para os autores decidirem como suas obras serão usadas e distribuídas.<br>
