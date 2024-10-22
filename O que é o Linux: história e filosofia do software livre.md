@@ -80,3 +80,14 @@ Os modelos de negócios no ambiente de software livre e de código aberto (FLOSS
 <strong>Software como Serviço (SaaS):</strong> Provedores hospedam software em nuvem e cobram pelo acesso, poupando o cliente de manutenção e instalação.<br>
 <strong>Desenvolvimento sob encomenda:</strong> Desenvolvedores criam extensões específicas para clientes, que podem optar por liberar ou manter essas modificações privadas.<br><br>
 Esses modelos permitem que desenvolvedores de software livre obtenham receita e garantem a sustentabilidade do movimento FLOSS.
+
+<h2>Resumo</h2>
+<Strong>Nesta lição você aprendeu:</Strong>
+
+Semelhanças e diferenças entre software livre e de código aberto (FLOSS)
+
+Licenças FLOSS, sua importância e problemas
+
+Licenças copyleft vs. permissivas
+
+Modelos de negócios FLOSS
