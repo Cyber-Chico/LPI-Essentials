@@ -42,3 +42,5 @@ Essas liberdades visam promover a cooperação e o compartilhamento, com ênfase
 Embora ambos os movimentos trabalhem de forma semelhante e colaborem em projetos globais, há conflitos quando um software atende às exigências de "código aberto" mas não às quatro liberdades do software livre. Esses conflitos surgem especialmente em questões de licenciamento, com o movimento de software livre sendo mais rigoroso em suas exigências.
 
 Em resumo, a diferença principal está no foco: o software livre prioriza liberdades sociais, enquanto o código aberto foca em eficiência técnica e pragmatismo.
+
+ Ao contrário de produtos físicos, o software não transfere propriedade, mas sim direitos de uso, que são detalhados em licenças.
