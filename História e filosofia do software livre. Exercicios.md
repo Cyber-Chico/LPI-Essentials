@@ -72,3 +72,40 @@ GCP oferece Container-Optimized OS: Um sistema operacional otimizado pelo Google
 <h1>Lição 2</h1>
 <h2>Para cada um dos comandos a seguir, identifique se ele está associado ao sistema de empacotamento Debian ou ao sistema de empacotamento Red Hat :<br>
 dpkg, rpm, apt-get, yum, dnf</h2><br>
+dpkg – Sistema de empacotamento Debian.<br>
+rpm – Sistema de empacotamento Red Hat.<br>
+apt-get – Sistema de empacotamento Debian.<br>
+yum – Sistema de empacotamento Red Hat.<br>
+dnf – Sistema de empacotamento Red Hat (substitui o yum em versões mais recentes).<br>
+
+<h2>Qual comando pode ser usado para instalar o Blender no Ubuntu? Após a instalação, como o programa pode ser executado?</h2><br>
+sudo apt-get install blender <br>
+
+<h2>Qual aplicativo do pacote LibreOffice pode ser usado para trabalhar com planilhas eletrônicas?</h2><br>
+LibreOffice ele é equivalente ao Microsoft Excel e oferece funcionalidades para criação, edição e análise de planilhas.<br>
+
+<h2>Qual navegador de código aberto é usado como base para o desenvolvimento do Google Chrome?</h2>
+O Chromium é o navegador de código aberto que serve como base para o desenvolvimento do Google Chrome. Embora ambos compartilhem a maior parte do código, o Google Chrome inclui algumas funcionalidades adicionais e serviços proprietários do Google que não estão presentes no Chromium.<br>
+
+<h2>SVG é um padrão aberto para gráficos vetoriais. Qual é o aplicativo mais popular para edição de arquivos SVG em sistemas Linux?</h2><br>
+O aplicativo mais popular para edição de arquivos SVG em sistemas Linux é o Inkscape. Ele é uma ferramenta de código aberto amplamente usada para criar e editar gráficos vetoriais, com suporte completo ao formato SVG. O Inkscape oferece uma ampla gama de recursos e é bastante popular entre designers gráficos e ilustradores.<br>
+
+<h2>Para cada um dos seguintes formatos de arquivo, escreva o nome de um aplicativo capaz de abrir e editar o arquivo correspondente no linux:<br>
+png, doc, xls, ppt, wav</h2><br>
+PNG (Imagem):
+Aplicativo: GIMP (GNU Image Manipulation Program).<br>
+
+DOC (Documento do Microsoft Word):
+Aplicativo: LibreOffice Writer.<br>
+
+XLS (Planilha do Microsoft Excel):
+Aplicativo: LibreOffice Calc.<br>
+
+PPT (Apresentação do Microsoft PowerPoint):
+Aplicativo: LibreOffice Impress.<br>
+
+WAV (Áudio):
+Aplicativo: Audacity.<br>
+
+<h2>Qual pacote de software permite o compartilhamento de arquivos entre máquinas Linux e Windows pela rede local?</h2><br>
+O Samba é o pacote de software que permite o compartilhamento de arquivos entre máquinas Linux e Windows em uma rede local. Ele implementa o protocolo SMB/CIFS, que é o padrão usado pelo Windows para compartilhamento de arquivos e impressoras, permitindo a interoperabilidade entre sistemas operacionais diferentes.
