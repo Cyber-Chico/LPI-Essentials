@@ -4,3 +4,24 @@ O Linux, criado em 1991 por Linus Torvalds e inspirado no Unix, é um dos sistem
 Sistemas embarcados, como o Raspberry Pi, utilizam versões de Linux para funções específicas em dispositivos inteligentes e automação. O Android, baseado em Linux, é amplamente usado em dispositivos móveis, oferecendo flexibilidade e integração com o ecossistema do Google.<br>
 
 Na nuvem, o Linux domina, sendo a base de até 90% das cargas de trabalho. Plataformas como AWS e Google Cloud oferecem uma gama de distribuições Linux otimizadas para uso em infraestruturas como serviço (IaaS), permitindo provisionamento rápido de servidores virtuais baseados em Linux.<br>
+
+<h1>Lição 2</h1>
+A introdução explica que aplicativos em um sistema Linux são programas voltados para o usuário, com várias opções disponíveis para diferentes tarefas, como aplicativos de escritório, navegadores e editores de multimídia. O usuário deve escolher o melhor aplicativo para suas necessidades.<br>
+
+Pacotes de software: Distribuições Linux vêm com aplicativos pré-instalados e repositórios contendo uma vasta gama de softwares que podem ser instalados com gerenciadores de pacotes, como o apt (Debian/Ubuntu) ou yum/dnf (Red Hat/Fedora). Esses sistemas de gerenciamento também resolvem dependências automaticamente.<br>
+
+Instalação de pacotes: Para instalar um novo programa, como o figlet, o usuário pode pesquisar e instalar o pacote usando comandos como apt-get install ou yum install, dependendo da distribuição.<br>
+
+Remoção de pacotes: Pacotes podem ser removidos com apt-get remove ou yum remove. Os arquivos de configuração geralmente são mantidos após a remoção do pacote.<br>
+
+Aplicativos de escritório: As suítes de escritório mais comuns são o LibreOffice e o Apache OpenOffice, que incluem aplicativos como Writer (texto), Calc (planilhas) e Impress (apresentações). Ambos suportam os formatos do Microsoft Office e preferem o formato aberto ODF.<br>
+
+Navegadores da web: Mozilla Firefox e Google Chrome (baseado no projeto de código aberto Chromium) são os navegadores mais utilizados no Linux.<br>
+
+Multimídia: Aplicativos populares incluem o Blender para renderização 3D, GIMP para edição de imagens, Inkscape para gráficos vetoriais, e Audacity para edição de áudio.<br>
+
+Programas de servidor: Servidores HTTP como Apache e Nginx lidam com requisições de páginas da web. Para gerenciamento de dados, bancos de dados como MariaDB e PostgreSQL são comuns.<br>
+
+Compartilhamento de dados: O Samba permite compartilhamento de arquivos entre Linux e Windows, enquanto o NFS é usado para redes Linux.<br>
+
+Linguagens de programação: Diversas linguagens são mencionadas, como C (para sistemas operacionais), JavaScript (para a web), Python (popular entre iniciantes) e PHP (para servidores web).<br>
