@@ -71,8 +71,4 @@ GCP oferece Container-Optimized OS: Um sistema operacional otimizado pelo Google
 
 <h1>Lição 2</h1>
 <h2>Para cada um dos comandos a seguir, identifique se ele está associado ao sistema de empacotamento Debian ou ao sistema de empacotamento Red Hat :<br>
-dpkg<br>
-rpm<br>
-apt-get<br>
-yum<br>
-dnf</h2><br>
+dpkg, rpm, apt-get, yum, dnf</h2><br>
