@@ -125,7 +125,7 @@ sudo apt-get install libreoffice <br>
 Navegador: Firefox. Cliente de e-mail: Thunderbird. Reprodutor de mídia: VLC. Editor de gráficos raster: GIMP.<br>
 
 <h1>Lição 3</h1>
-<h2>1 O que são em poucas palavras as “quatro liberdades” definidas por Richard Stallman e pela Free Software Foundation?</h2>
+<h2>1 - O que são em poucas palavras as “quatro liberdades” definidas por Richard Stallman e pela Free Software Foundation?</h2>
 
 liberdade 0 - Liberdade 0: A liberdade de executar o programa para qualquer propósito.
 
