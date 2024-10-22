@@ -7,12 +7,12 @@ Na nuvem, o Linux domina, sendo a base de até 90% das cargas de trabalho. Plata
 
 <h2>Resumo</h2>
 <strong>Nesta lição você aprendeu:</strong><br>
-Quais distribuições o Linux tem
-O que são sistemas embarcados Linux
-Como os sistemas embarcados Linux são usados
-Diferentes aplicações do Android
-Diferentes usos de um Raspberry Pi
-O que é Computação em Nuvem
+Quais distribuições o Linux tem<br>
+O que são sistemas embarcados Linux<br>
+Como os sistemas embarcados Linux são usados<br>
+Diferentes aplicações do Android<br>
+Diferentes usos de um Raspberry Pi<br>
+O que é Computação em Nuvem<br>
 Qual o papel do Linux na computação em nuvem
 
 <h1>Lição 2</h1>
@@ -37,11 +37,11 @@ A introdução explica que aplicativos em um sistema Linux são programas voltad
 <strong>Linguagens de programação:</strong> Diversas linguagens são mencionadas, como C (para sistemas operacionais), JavaScript (para a web), Python (popular entre iniciantes) e PHP (para servidores web).<br>
 
 <h2>Resumo</h2>
-<strong>Nesta lição, você aprendeu:</strong>
-Os sistemas de gerenciamento de pacotes usados ​​nas principais distribuições Linux
-Aplicativos de código aberto que podem editar formatos de arquivo populares
-Os programas de servidor subjacentes a muitos serviços importantes da Internet e da rede local
-Linguagens de programação comuns e seus usos
+<strong>Nesta lição, você aprendeu:</strong><br>
+Os sistemas de gerenciamento de pacotes usados ​​nas principais distribuições Linux<br>
+Aplicativos de código aberto que podem editar formatos de arquivo populares<br>
+Os programas de servidor subjacentes a muitos serviços importantes da Internet e da rede local<br>
+Linguagens de programação comuns e seus usos<br>
 
 
 
