@@ -68,3 +68,15 @@ Debian: Base estável e confiável, muito utilizada em servidores que requerem s
 Red Hat Enterprise Linux (RHEL): Uma das distribuições empresariais mais utilizadas, com suporte pago e foco em ambientes corporativos.<br>
 AWS oferece Amazon Linux: Uma distribuição otimizada pela própria Amazon para seus serviços em nuvem, com foco em integração e desempenho nos serviços AWS.<br>
 GCP oferece Container-Optimized OS: Um sistema operacional otimizado pelo Google especificamente para rodar contêineres no Google Cloud, com um foco em segurança e desempenho.<br>
+
+<h1>Lição 2</h1>
+<h2>Para cada um dos comandos a seguir, identifique se ele está associado ao sistema de empacotamento Debian ou ao sistema de empacotamento Red Hat :
+dpkg<br>
+
+rpm<br>
+
+apt-get<br>
+
+yum<br>
+
+dnf</h2><br>
