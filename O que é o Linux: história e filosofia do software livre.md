@@ -27,7 +27,7 @@ Compartilhamento de dados: O Samba permite compartilhamento de arquivos entre Li
 Linguagens de programação: Diversas linguagens são mencionadas, como C (para sistemas operacionais), JavaScript (para a web), Python (popular entre iniciantes) e PHP (para servidores web).<br>
 
 <h1>Lição 3</h1>
-O software livre refere-se a programas que garantem ao usuário quatro liberdades essenciais, que são:<br>
+O software livre refere-se a programas que garantem ao usuário quatro liberdades essenciais, que são:<br><br>
 
 Liberdade 0: A liberdade de executar o programa como desejar, para qualquer propósito, sem restrições.<br>
 Liberdade 1: A liberdade de estudar o funcionamento do programa e modificá-lo para atender às suas necessidades. Para isso, o acesso ao código-fonte é necessário.<br>
