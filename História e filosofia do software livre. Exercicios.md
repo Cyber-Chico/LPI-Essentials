@@ -133,7 +133,7 @@ liberdade 1 - Liberdade 1: A liberdade de estudar como o programa funciona e ada
 
 liberdade 2 - Liberdade 2: A liberdade de redistribuir cópias para ajudar os outros.
 
-liberdade 3 - Liberdade 3: A liberdade de melhorar o programa e distribuir suas modificações ao público, de modo que toda a comunidade se beneficie (isso também requer acesso ao código-fonte).<br>
+liberdade 3 - Liberdade 3: A liberdade de melhorar o programa e distribuir suas modificações ao público, de modo que toda a comunidade se beneficie (isso também requer acesso ao código-fonte).<br><br>
 A ênfase do software livre está nas liberdades dos usuários e na ética do compartilhamento e colaboração.
 
 <h2>2 - O que significa a abreviação FLOSS?</h2>
