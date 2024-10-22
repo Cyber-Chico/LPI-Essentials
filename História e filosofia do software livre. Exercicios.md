@@ -146,7 +146,7 @@ Se você deseja garantir que seu software livre, assim como todos os trabalhos f
 
 A GPLv3 é uma licença copyleft que exige que qualquer modificação ou derivado do software também seja distribuído sob os mesmos termos da licença original. Isso significa que, se alguém modificar o seu software, essa pessoa será obrigada a disponibilizar o código-fonte modificado sob a mesma licença, preservando as quatro liberdades do software livre para todos os usuários futuros.
 
-<h2>Qual das seguintes licenças você chamaria de permissiva e qual você chamaria de copyleft?</h2>
+<h2>4 - Qual das seguintes licenças você chamaria de permissiva e qual você chamaria de copyleft?</h2>
 
 Licença BSD simplificada -  Permissiva
 
@@ -162,3 +162,73 @@ Explicação:
 <strong>A GPL versão 3 é uma licença copyleft</strong>, que exige que as versões modificadas também sejam distribuídas sob os mesmos termos (mantendo o software livre).<br>
 <strong>CC BY é uma licença permissiva da Creative Commons</strong>, permitindo que as obras sejam usadas livremente, desde que a atribuição ao autor seja dada.<br>
 <strong>CC BY-SA é uma licença copyleft</strong>, pois exige que obras derivadas sejam licenciadas sob os mesmos termos (compartilhamento pela mesma licença).<br>
+
+<h2>5 - Você escreveu um aplicativo web e o publicou sob uma licença livre. Como você pode ganhar dinheiro com seu produto? Cite três possibilidades.</h2>
+1 - Divulgação no site, como propaganda e etc (merchandising).<br>
+2 - Parcerias estratégicas, como afiliados ou colaborações com outras empresas que se beneficiam do tráfego e do conteúdo do site.<br>
+3 - Oferecer serviços profissionais: Você pode fornecer consultoria, suporte técnico, personalizações e manutenção para empresas que utilizam seu aplicativo. Muitas organizações preferem pagar por esses serviços especializados para garantir que o software seja configurado e mantido adequadamente, além de receber suporte em caso de problemas.<br>
+
+<h2>6 - Sob qual licença (incluindo versão) os seguintes aplicativos estão disponíveis?</h2>
+
+Servidor HTTP Apache | Licença Apache 2.0. O servidor HTTP Apache é distribuído sob a Apache License, versão 2.0, que é uma licença permissiva de código aberto.
+
+Servidor da Comunidade MySQL | GNU General Public License (GPL) versão 2. O MySQL Community Server é distribuído sob a GPLv2, que é uma licença copyleft que exige que qualquer software derivado também seja distribuído sob a mesma licença.
+
+Artigos da Wikipédia | Creative Commons Attribution-ShareAlike 3.0 (CC BY-SA 3.0). O conteúdo textual da Wikipédia é licenciado sob a CC BY-SA 3.0, uma licença copyleft que permite redistribuição e modificação, desde que o conteúdo seja atribuído ao autor original e compartilhado sob a mesma licença.
+
+Mozilla Firefox | Mozilla Public License (MPL) versão 2.0. O Mozilla Firefox é licenciado sob a Mozilla Public License, versão 2.0, uma licença de código aberto que permite modificações e redistribuição, mas exige que as alterações ao código original sejam publicadas sob a mesma licença.
+
+GIMP | GNU General Public License (GPL) versão 3. O GIMP é licenciado sob a GPLv3, uma licença copyleft que garante que as modificações no software também sejam liberadas sob a mesma licença.
+
+<h2>7 - Você quer lançar seu software sob a GNU GPL v3. Quais passos você deve seguir?</h2>
+1 - Baixe o texto completo da GNU GPL v3 (geralmente o arquivo é chamado de LICENSE ou COPYING) e inclua-o na raiz do seu projeto. Você pode obter o texto oficial da GPLv3 diretamente no site da Free Software Foundation (FSF).<br>
+2 - Em cada arquivo de código-fonte do seu software, adicione um cabeçalho com uma declaração de copyright e um aviso de licença, geralmente no início de cada arquivo. Este cabeçalho deve incluir:<br>
+Nome do autor<br>
+Ano de criação<br>
+Uma referência à GPLv3, como no exemplo abaixo:<br>
+/* 
+ * Copyright (C) [Ano] [Seu Nome]
+ *
+ * Este programa é software livre: você pode redistribuí-lo e/ou modificá-lo
+ * sob os termos da Licença Pública Geral GNU (GNU GPL), versão 3.
+ *
+ * Este programa é distribuído na esperança de que seja útil,
+ * mas SEM NENHUMA GARANTIA; sem mesmo a garantia implícita de
+ * COMERCIABILIDADE ou ADEQUAÇÃO A UM DETERMINADO FIM. Consulte a
+ * Licença Pública Geral GNU para mais detalhes.
+ *
+ * Você deve ter recebido uma cópia da Licença Pública Geral GNU
+ * junto com este programa. Se não, veja <https://www.gnu.org/licenses/>.
+ */
+
+3 - Esclareça os termos de uso no site ou repositório<br>
+Se você estiver hospedando seu projeto em um site ou repositório público (como GitHub, GitLab, etc.), adicione uma seção clara no README ou página principal mencionando que o software é licenciado sob a GPLv3. Isso ajuda os usuários a entenderem as condições de uso e distribuição.
+
+4 - Ofereça o código-fonte
+Sob a GPLv3, é essencial fornecer o código-fonte completo do software, ou pelo menos disponibilizá-lo para quem recebe o binário (programa compilado). Se você distribuir o software online, certifique-se de que o código-fonte esteja facilmente acessível.
+
+5 - Compreenda as implicações do copyleft
+A GPLv3 impõe a condição de que qualquer software derivado do seu trabalho também deve ser distribuído sob a GPLv3. Certifique-se de que está ciente e confortável com essa restrição. Se terceiros modificarem ou redistribuírem seu software, eles também precisam manter a licença GPLv3.
+
+6. Opções adicionais (opcional)<br>
+Dual Licensing: Se desejar, você pode oferecer seu software sob outras licenças além da GPLv3, caso haja interesse comercial.<br>
+Adicionar uma exceção: Se você deseja permitir o uso de seu software com bibliotecas não-GPL ou em cenários que não seguiriam a GPLv3 estritamente, pode adicionar uma cláusula de exceção no cabeçalho da licença.
+Seguindo esses passos, você garante que seu software esteja licenciado corretamente sob a GNU GPL v3, protegendo os direitos de liberdade de uso, modificação e distribuição, tanto para você quanto para a comunidade que usa e contribui para o projeto.
+
+<h2>8 - Por que a Free Software Foundation lançou a GNU Affero General Public License (GNU AGPL) como um suplemento à GNU GPL?</h2>
+A GNU AGPL foi criada para garantir que, mesmo quando o software está sendo utilizado por meio de um servidor, os usuários ainda tenham os mesmos direitos de acesso ao código-fonte modificado. Ou seja, ela introduz uma cláusula adicional que exige que o código-fonte também seja disponibilizado aos usuários remotos que acessam o software por meio de uma rede.
+
+Em resumo, a GNU AGPL fecha uma lacuna da GNU GPL relacionada a servidores web, garantindo que os usuários tenham acesso ao código-fonte mesmo quando interagem com o software apenas por meio de uma rede.
+
+<h2>9 - Cite três exemplos de software livre, que também são oferecidos como “Business Edition”, ou seja, em uma versão paga.</h2>
+Mozilla Firefox:<br>
+Versão Livre: Mozilla Firefox é um navegador de código aberto disponível gratuitamente.<br>
+Business Edition: Firefox for Enterprise oferece suporte especializado, gerenciamento de políticas e serviços corporativos para empresas que utilizam o navegador em grande escala.
+
+MySQL:<br>
+Versão Livre: MySQL Community Edition (GPLv2).<br>
+Business Edition: MySQL Enterprise Edition, oferecida pela Oracle, inclui suporte técnico, ferramentas avançadas de monitoramento, segurança aprimorada e recursos adicionais para gerenciamento de banco de dados corporativo.
+
+LibreOffice:<br>
+Versão Livre: LibreOffice é uma suíte de escritório de código aberto que inclui ferramentas como processador de texto, planilhas e apresentações.<br>
+Business Edition: LibreOffice Enterprise oferece suporte comercial, integração com sistemas corporativos e treinamento para empresas que precisam de uma solução de escritório com suporte profissional.
