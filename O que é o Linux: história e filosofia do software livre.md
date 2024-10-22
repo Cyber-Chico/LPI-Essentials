@@ -43,4 +43,8 @@ Embora ambos os movimentos trabalhem de forma semelhante e colaborem em projetos
 
 Em resumo, a diferença principal está no foco: o software livre prioriza liberdades sociais, enquanto o código aberto foca em eficiência técnica e pragmatismo.
 
- Ao contrário de produtos físicos, o software não transfere propriedade, mas sim direitos de uso, que são detalhados em licenças.
+Ao contrário de produtos físicos, o software não transfere propriedade, mas sim direitos de uso, que são detalhados em licenças.
+
+Empresas de software proprietário, como Microsoft, possuem suas próprias licenças específicas. Já o software livre e de código aberto busca clareza e simplicidade nas licenças, para que qualquer usuário possa entendê-las e aplicá-las. No entanto, alcançar simplicidade é difícil devido a diferenças legais entre países, como nas leis de direitos autorais da Alemanha e dos EUA, que possuem entendimentos diferentes sobre autoria e propriedade intelectual.
+
+Isso resulta em diversas licenças FOSS e, às vezes, em confusão ou disputas legais ao combinar diferentes licenças. Organizações tanto do movimento de software livre quanto de código aberto formulam e ajudam na aplicação dessas licenças para garantir que os princípios de cada movimento sejam seguidos.
