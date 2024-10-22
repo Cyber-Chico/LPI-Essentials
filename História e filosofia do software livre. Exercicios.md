@@ -109,3 +109,17 @@ Aplicativo: Audacity.<br>
 
 <h2>7 - Qual pacote de software permite o compartilhamento de arquivos entre máquinas Linux e Windows pela rede local?</h2>
 O Samba é o pacote de software que permite o compartilhamento de arquivos entre máquinas Linux e Windows em uma rede local. Ele implementa o protocolo SMB/CIFS, que é o padrão usado pelo Windows para compartilhamento de arquivos e impressoras, permitindo a interoperabilidade entre sistemas operacionais diferentes.
+
+<h2>8 - Você sabe que os arquivos de configuração são mantidos mesmo se o pacote associado for removido do sistema. Como você pode remover automaticamente o pacote chamado cups e seus arquivos de configuração de um sistema baseado em DEB?</h2>
+sudo apt-get purge cups<br>
+
+<h2>Suponha que você tenha muitos arquivos de imagem TIFF e queira convertê-los para JPEG. Qual pacote de software poderia ser usado para converter esses arquivos diretamente na linha de comando?</h2>
+sudo apt-get install imagemagick<br>
+convert image.tiff image.jpg<br>
+for file in *.tiff; do convert "$file" "${file%.tiff}.jpg"; done<br>
+
+<h2>Qual pacote de software você precisa instalar para poder abrir documentos do Microsoft Word enviados a você por um usuário do Windows?</h2>
+sudo apt-get install libreoffice <br>
+
+<h2>Todo ano, o linuxquestions.org promove uma pesquisa sobre os aplicativos Linux mais populares. Visite https://www.linuxquestions.org/questions/2018-linuxquestions-org-members-choice-awards-128/ e descubra quais aplicativos de desktop são mais populares entre usuários experientes do Linux.</h2>
+Navegador: Firefox. Cliente de e-mail: Thunderbird. Reprodutor de mídia: VLC. Editor de gráficos raster: GIMP.<br>
