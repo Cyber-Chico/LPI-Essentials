@@ -25,3 +25,12 @@ Programas de servidor: Servidores HTTP como Apache e Nginx lidam com requisiçõ
 Compartilhamento de dados: O Samba permite compartilhamento de arquivos entre Linux e Windows, enquanto o NFS é usado para redes Linux.<br>
 
 Linguagens de programação: Diversas linguagens são mencionadas, como C (para sistemas operacionais), JavaScript (para a web), Python (popular entre iniciantes) e PHP (para servidores web).<br>
+
+<h1>Lição 3</h1>
+O software livre refere-se a programas que garantem ao usuário quatro liberdades essenciais, que são:<br>
+
+Liberdade 0: A liberdade de executar o programa como desejar, para qualquer propósito, sem restrições.<br>
+Liberdade 1: A liberdade de estudar o funcionamento do programa e modificá-lo para atender às suas necessidades. Para isso, o acesso ao código-fonte é necessário.<br>
+Liberdade 2: A liberdade de redistribuir cópias do software, promovendo o compartilhamento com outros.<br>
+Liberdade 3: A liberdade de distribuir versões modificadas, permitindo que suas alterações beneficiem a comunidade. O código modificado deve manter as liberdades originais.<br>
+Essas liberdades visam promover a cooperação e o compartilhamento, com ênfase em evitar a restrição de uso e modificação imposta por softwares proprietários.<br>
