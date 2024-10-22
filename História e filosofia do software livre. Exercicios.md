@@ -70,13 +70,9 @@ AWS oferece Amazon Linux: Uma distribuição otimizada pela própria Amazon para
 GCP oferece Container-Optimized OS: Um sistema operacional otimizado pelo Google especificamente para rodar contêineres no Google Cloud, com um foco em segurança e desempenho.<br>
 
 <h1>Lição 2</h1>
-<h2>Para cada um dos comandos a seguir, identifique se ele está associado ao sistema de empacotamento Debian ou ao sistema de empacotamento Red Hat :
+<h2>Para cada um dos comandos a seguir, identifique se ele está associado ao sistema de empacotamento Debian ou ao sistema de empacotamento Red Hat :<br>
 dpkg<br>
-
 rpm<br>
-
 apt-get<br>
-
 yum<br>
-
 dnf</h2><br>
