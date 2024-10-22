@@ -91,7 +91,7 @@ O Chromium é o navegador de código aberto que serve como base para o desenvolv
 O aplicativo mais popular para edição de arquivos SVG em sistemas Linux é o Inkscape. Ele é uma ferramenta de código aberto amplamente usada para criar e editar gráficos vetoriais, com suporte completo ao formato SVG. O Inkscape oferece uma ampla gama de recursos e é bastante popular entre designers gráficos e ilustradores.<br>
 
 <h2>6 - Para cada um dos seguintes formatos de arquivo, escreva o nome de um aplicativo capaz de abrir e editar o arquivo correspondente no linux:
-png, doc, xls, ppt, wav</h2><br>
+png, doc, xls, ppt, wav</h2>
 PNG (Imagem):
 Aplicativo: GIMP (GNU Image Manipulation Program).<br>
 
@@ -107,5 +107,5 @@ Aplicativo: LibreOffice Impress.<br>
 WAV (Áudio):
 Aplicativo: Audacity.<br>
 
-<h2>7 - Qual pacote de software permite o compartilhamento de arquivos entre máquinas Linux e Windows pela rede local?</h2><br>
+<h2>7 - Qual pacote de software permite o compartilhamento de arquivos entre máquinas Linux e Windows pela rede local?</h2>
 O Samba é o pacote de software que permite o compartilhamento de arquivos entre máquinas Linux e Windows em uma rede local. Ele implementa o protocolo SMB/CIFS, que é o padrão usado pelo Windows para compartilhamento de arquivos e impressoras, permitindo a interoperabilidade entre sistemas operacionais diferentes.
