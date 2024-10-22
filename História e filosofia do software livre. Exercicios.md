@@ -125,12 +125,23 @@ sudo apt-get install libreoffice <br>
 Navegador: Firefox. Cliente de e-mail: Thunderbird. Reprodutor de mídia: VLC. Editor de gráficos raster: GIMP.<br>
 
 <h1>Lição 3</h1>
-<h2>O que são — em poucas palavras — as “quatro liberdades” definidas por Richard Stallman e pela Free Software Foundation?
+<h2>1 -O que são — em poucas palavras — as “quatro liberdades” definidas por Richard Stallman e pela Free Software Foundation?</h2>
 
-liberdade 0
+liberdade 0 - Liberdade 0: A liberdade de executar o programa para qualquer propósito.
 
-liberdade 1
+liberdade 1 - Liberdade 1: A liberdade de estudar como o programa funciona e adaptá-lo às suas necessidades (isso requer acesso ao código-fonte).
 
-liberdade 2
+liberdade 2 - Liberdade 2: A liberdade de redistribuir cópias para ajudar os outros.
 
-liberdade 3</h2>
+liberdade 3 - Liberdade 3: A liberdade de melhorar o programa e distribuir suas modificações ao público, de modo que toda a comunidade se beneficie (isso também requer acesso ao código-fonte).<br>
+A ênfase do software livre está nas liberdades dos usuários e na ética do compartilhamento e colaboração.
+
+<h2>2 - O que significa a abreviação FLOSS?</h2>
+
+A abreviação FLOSS significa Free/Libre and Open Source Software. Ela combina os conceitos de software livre ("Free" ou "Libre") e software de código aberto ("Open Source Software"). O termo é usado para descrever software que garante aos usuários a liberdade de usar, estudar, modificar e redistribuir o código, abrangendo tanto a perspectiva do software livre quanto do código aberto. O uso de "Libre" no termo FLOSS ajuda a evitar a ambiguidade da palavra "free" em inglês, que pode ser entendida como "grátis", enquanto o foco é na liberdade do software.
+
+<h2>3 - Você desenvolveu software livre e quer garantir que o software em si, mas também todos os trabalhos futuros baseados nele, permaneçam livres também. Qual licença você escolhe?</h2>
+
+Se você deseja garantir que seu software livre, assim como todos os trabalhos futuros baseados nele, permaneçam livres, a GPL versão 3 (GNU General Public License, versão 3) é uma excelente escolha.
+
+A GPLv3 é uma licença copyleft que exige que qualquer modificação ou derivado do software também seja distribuído sob os mesmos termos da licença original. Isso significa que, se alguém modificar o seu software, essa pessoa será obrigada a disponibilizar o código-fonte modificado sob a mesma licença, preservando as quatro liberdades do software livre para todos os usuários futuros.
