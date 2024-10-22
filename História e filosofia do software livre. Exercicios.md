@@ -210,7 +210,7 @@ Sob a GPLv3, é essencial fornecer o código-fonte completo do software, ou pelo
 5 - Compreenda as implicações do copyleft
 A GPLv3 impõe a condição de que qualquer software derivado do seu trabalho também deve ser distribuído sob a GPLv3. Certifique-se de que está ciente e confortável com essa restrição. Se terceiros modificarem ou redistribuírem seu software, eles também precisam manter a licença GPLv3.
 
-6. Opções adicionais (opcional)<br>
+6 Opções adicionais (opcional)<br>
 Dual Licensing: Se desejar, você pode oferecer seu software sob outras licenças além da GPLv3, caso haja interesse comercial.<br>
 Adicionar uma exceção: Se você deseja permitir o uso de seu software com bibliotecas não-GPL ou em cenários que não seguiriam a GPLv3 estritamente, pode adicionar uma cláusula de exceção no cabeçalho da licença.
 Seguindo esses passos, você garante que seu software esteja licenciado corretamente sob a GNU GPL v3, protegendo os direitos de liberdade de uso, modificação e distribuição, tanto para você quanto para a comunidade que usa e contribui para o projeto.
