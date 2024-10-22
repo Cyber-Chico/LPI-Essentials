@@ -70,3 +70,13 @@ A Creative Commons oferece licenças que permitem aos autores escolher como dese
 <strong>CC BY-NC-SA:</strong> Não comercial e com compartilhamento pela mesma licença.<br>
 <strong>CC BY-NC-ND:</strong> A mais restritiva, permitindo apenas redistribuição sem alterações e para fins não comerciais.<br><br>
 Essas licenças proporcionam flexibilidade para os autores decidirem como suas obras serão usadas e distribuídas.<br>
+
+Os modelos de negócios no ambiente de software livre e de código aberto (FLOSS), que, embora inicialmente idealista e não comercial, evoluiu para permitir formas de monetização. Alguns dos principais modelos de negócio mencionados incluem:
+
+<strong>Crowdfunding:</strong> Desenvolvedores arrecadam doações por plataformas como Kickstarter em troca de recompensas ou acesso ao software.<br>
+<strong>Licenciamento duplo:</strong> Oferece o software livre e, simultaneamente, uma versão proprietária com mais serviços, como suporte e atualizações, exemplificado pelo ownCloud.<br>
+<strong>Serviços profissionais:</strong> Empresas pagam por consultoria, manutenção e suporte técnico para implementar e operar software livre.<br>
+<strong>Certificações e merchandising:</strong> Plataformas como Moodle oferecem certificação, gerando receita adicional e reconhecimento no mercado.<br>
+<strong>Software como Serviço (SaaS):</strong> Provedores hospedam software em nuvem e cobram pelo acesso, poupando o cliente de manutenção e instalação.<br>
+<strong>Desenvolvimento sob encomenda:</strong> Desenvolvedores criam extensões específicas para clientes, que podem optar por liberar ou manter essas modificações privadas.<br><br>
+Esses modelos permitem que desenvolvedores de software livre obtenham receita e garantem a sustentabilidade do movimento FLOSS.
