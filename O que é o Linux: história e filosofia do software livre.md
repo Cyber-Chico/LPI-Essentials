@@ -34,3 +34,11 @@ O software livre refere-se a programas que garantem ao usuário quatro liberdade
 <strong>Liberdade 2:</strong> A liberdade de redistribuir cópias do software, promovendo o compartilhamento com outros.<br><br>
 <strong>Liberdade 3:</strong> A liberdade de distribuir versões modificadas, permitindo que suas alterações beneficiem a comunidade. O código modificado deve manter as liberdades originais.<br><br>
 Essas liberdades visam promover a cooperação e o compartilhamento, com ênfase em evitar a restrição de uso e modificação imposta por softwares proprietários.<br>
+
+<strong>O software livre</strong> surgiu com o movimento liderado por Richard Stallman e o projeto GNU, em 1985, com foco nas quatro liberdades essenciais que garantem o uso, modificação e compartilhamento do software. O movimento tem uma base social, política e ideológica, priorizando a liberdade dos usuários.<br>
+
+<strong>O software de código aberto</strong>, por outro lado, adotou uma abordagem mais pragmática e técnica, focando na transparência do código e na colaboração, especialmente após o sucesso do Linux e a expansão das comunidades de desenvolvimento online. O código visível passou a ser a principal característica, sem ênfase nas liberdades sociais.
+
+Embora ambos os movimentos trabalhem de forma semelhante e colaborem em projetos globais, há conflitos quando um software atende às exigências de "código aberto" mas não às quatro liberdades do software livre. Esses conflitos surgem especialmente em questões de licenciamento, com o movimento de software livre sendo mais rigoroso em suas exigências.
+
+Em resumo, a diferença principal está no foco: o software livre prioriza liberdades sociais, enquanto o código aberto foca em eficiência técnica e pragmatismo.
