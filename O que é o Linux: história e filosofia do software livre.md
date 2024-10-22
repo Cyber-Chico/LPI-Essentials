@@ -5,6 +5,24 @@ Sistemas embarcados, como o Raspberry Pi, utilizam versões de Linux para funç�
 
 Na nuvem, o Linux domina, sendo a base de até 90% das cargas de trabalho. Plataformas como AWS e Google Cloud oferecem uma gama de distribuições Linux otimizadas para uso em infraestruturas como serviço (IaaS), permitindo provisionamento rápido de servidores virtuais baseados em Linux.<br>
 
+<h2>Resumo</h2>
+<strong>Nesta lição você aprendeu:</strong><br>
+
+Quais distribuições o Linux tem
+
+O que são sistemas embarcados Linux
+
+Como os sistemas embarcados Linux são usados
+
+Diferentes aplicações do Android
+
+Diferentes usos de um Raspberry Pi
+
+O que é Computação em Nuvem
+
+Qual o papel do Linux na computação em nuvem
+
+
 <h1>Lição 2</h1>
 A introdução explica que aplicativos em um sistema Linux são programas voltados para o usuário, com várias opções disponíveis para diferentes tarefas, como aplicativos de escritório, navegadores e editores de multimídia. O usuário deve escolher o melhor aplicativo para suas necessidades.<br>
 
@@ -25,6 +43,19 @@ A introdução explica que aplicativos em um sistema Linux são programas voltad
 <strong>Compartilhamento de dados:</strong> O Samba permite compartilhamento de arquivos entre Linux e Windows, enquanto o NFS é usado para redes Linux.<br>
 
 <strong>Linguagens de programação:</strong> Diversas linguagens são mencionadas, como C (para sistemas operacionais), JavaScript (para a web), Python (popular entre iniciantes) e PHP (para servidores web).<br>
+
+<h2>Resumo</h2>
+<strong>Nesta lição, você aprendeu:</strong>
+
+Os sistemas de gerenciamento de pacotes usados ​​nas principais distribuições Linux
+
+Aplicativos de código aberto que podem editar formatos de arquivo populares
+
+Os programas de servidor subjacentes a muitos serviços importantes da Internet e da rede local
+
+Linguagens de programação comuns e seus usos
+
+
 
 <h1>Lição 3</h1>
 O software livre refere-se a programas que garantem ao usuário quatro liberdades essenciais, que são:<br><br>
