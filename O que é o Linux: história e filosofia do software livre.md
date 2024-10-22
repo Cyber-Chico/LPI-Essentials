@@ -54,3 +54,7 @@ promovido pela Free Software Foundation (FSF) por meio da licença GNU General P
 Para evitar esses problemas, algumas licenças, como a GNU Lesser General Public License (LGPL), permitem a combinação de software livre com software proprietário, como em bibliotecas. Outra solução é o licenciamento duplo, que oferece o software sob uma licença livre e outra proprietária, permitindo mais flexibilidade em troca de uma taxa.
 
 A escolha da licença é crucial, pois afeta a cooperação com outros projetos, a compatibilidade de componentes e o futuro do software. O copyleft, embora promova liberdade, traz desafios especiais para os desenvolvedores.
+
+Open Source Initiative (OSI), fundada em 1998, que cuida de questões de licenciamento de código aberto. A OSI desenvolveu um processo para verificar a conformidade de licenças com sua Open Source Definition, aprovando mais de 80 licenças, incluindo algumas que contradizem o princípio de copyleft, como as licenças BSD.
+
+As licenças BSD são permissivas, permitindo ampla liberdade de uso e modificação do software, sem exigir que versões modificadas também sejam abertas. Um exemplo é a Licença BSD de 2 Cláusulas, que é simples e permite a redistribuição com poucas condições: manter os avisos de direitos autorais e a isenção de responsabilidade, tanto no código-fonte quanto em binários. Essas licenças dão aos desenvolvedores liberdade máxima para decidir se suas modificações serão abertas ou comerciais.
