@@ -48,3 +48,9 @@ Ao contrário de produtos físicos, o software não transfere propriedade, mas s
 Empresas de software proprietário, como Microsoft, possuem suas próprias licenças específicas. Já o software livre e de código aberto busca clareza e simplicidade nas licenças, para que qualquer usuário possa entendê-las e aplicá-las. No entanto, alcançar simplicidade é difícil devido a diferenças legais entre países, como nas leis de direitos autorais da Alemanha e dos EUA, que possuem entendimentos diferentes sobre autoria e propriedade intelectual.
 
 Isso resulta em diversas licenças FOSS e, às vezes, em confusão ou disputas legais ao combinar diferentes licenças. Organizações tanto do movimento de software livre quanto de código aberto formulam e ajudam na aplicação dessas licenças para garantir que os princípios de cada movimento sejam seguidos.
+
+promovido pela Free Software Foundation (FSF) por meio da licença GNU General Public License (GPL). O copyleft garante que a liberdade de um software seja mantida em suas versões modificadas, evitando que restrições sejam impostas no futuro. Isso, porém, gera complicações práticas, já que softwares sob diferentes licenças copyleft podem ser incompatíveis entre si, ou até mesmo entre versões da mesma licença.
+
+Para evitar esses problemas, algumas licenças, como a GNU Lesser General Public License (LGPL), permitem a combinação de software livre com software proprietário, como em bibliotecas. Outra solução é o licenciamento duplo, que oferece o software sob uma licença livre e outra proprietária, permitindo mais flexibilidade em troca de uma taxa.
+
+A escolha da licença é crucial, pois afeta a cooperação com outros projetos, a compatibilidade de componentes e o futuro do software. O copyleft, embora promova liberdade, traz desafios especiais para os desenvolvedores.
