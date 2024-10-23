@@ -232,3 +232,86 @@ Business Edition: MySQL Enterprise Edition, oferecida pela Oracle, inclui suport
 LibreOffice:<br>
 Versão Livre: LibreOffice é uma suíte de escritório de código aberto que inclui ferramentas como processador de texto, planilhas e apresentações.<br>
 Business Edition: LibreOffice Enterprise oferece suporte comercial, integração com sistemas corporativos e treinamento para empresas que precisam de uma solução de escritório com suporte profissional.
+
+<h1>Lição 4</h1>
+<h2>1 - Você deve usar uma “janela privada” no seu navegador se quiser:</h2>
+Para navegar completamente anônimo na Internet
+
+<strong>Para não deixar rastros no computador que você está usando</strong><br>
+Usar uma "janela privada" (ou modo de navegação anônima) não garante anonimato completo na internet, mas impede que o navegador armazene dados como histórico, cookies e senhas localmente no computador que você está utilizando.
+
+Para ativar o TLS para evitar o rastreamento de cookies
+
+Para usar DNT
+
+Para usar criptografia durante a transmissão de dados
+
+<h2>2 - O que é OpenStack?</h2>
+<strong>Um projeto que permite a criação de IaaS privado</strong>
+OpenStack é um projeto de código aberto que permite a criação de uma infraestrutura como serviço (IaaS) privada ou pública. Ele fornece ferramentas para gerenciar recursos de computação, armazenamento e rede em um data center, permitindo a criação de ambientes de nuvem escaláveis.
+
+Um projeto que permite a criação de PaaS privado
+
+Um projeto que permite a criação de SaaS privado
+
+Um hipervisor
+
+Um gerenciador de senhas de código aberto
+
+<h2>3 - Quais das opções abaixo são softwares de criptografia de disco válidos?</h2>
+
+RevealJS, EncFS e dm-crypt
+
+dm-crypt e KeePass
+
+EncFS e Bitwarden
+
+<strong>EncFS e dm-crypt</strong>
+EncFS e dm-crypt são ambos softwares de criptografia de disco. EncFS é uma solução de criptografia de dispositivo empilhado, e dm-crypt é uma solução de criptografia de bloco usada no Linux.<br>
+
+TLS e dm-crypt
+
+<h2>4 - Selecione verdadeiro ou falso para criptografia de dispositivo dm-crypt:</h2>
+
+Os arquivos são criptografados antes de serem gravados no disco - Verdadeiro<br>
+(Os dados são criptografados antes de serem gravados no dispositivo de bloco.)
+
+Todo o sistema de arquivos é um blob criptografado - Verdadeiro<br>
+(Quando o sistema está offline, o conteúdo do disco parece um bloco de dados criptografados.)
+
+Somente arquivos e diretórios são criptografados, não links simbólicos - Falso<br>
+(O dm-crypt criptografa todos os dados no nível de bloco, incluindo metadados, diretórios e links simbólicos.)
+
+Não requer acesso root - Falso<br>
+(O dm-crypt normalmente requer privilégios de root para ser configurado e gerenciado.)
+
+É um dispositivo de criptografia de bloco - Verdadeiro<br>
+(dm-crypt é uma solução de criptografia de dispositivo de bloco, criptografando todos os dados no nível de bloco.)
+
+<h2>5 - Beamer é:</h2>
+
+Um mecanismo de criptografia
+
+Um hipervisor
+
+Um software de virtualização
+
+Um componente OpenStack
+
+<strong>Uma ferramenta de apresentação LaTeX</strong><br>
+Beamer é uma classe de LaTeX usada para criar apresentações. Ele permite gerar apresentações em PDF com alta qualidade tipográfica e controle total sobre a formatação e estilo das apresentações.
+
+<h2>6 - A maioria das distribuições vem com o Firefox instalado por padrão (se a sua não tiver, você terá que instalá-lo primeiro). Vamos instalar uma extensão do Firefox chamada Lightbeam . Você pode fazer isso pressionando Ctrl+ Shift+A e procurando por “Lightbeam” no campo de pesquisa que será exibido na aba aberta, ou visitando a página da extensão com o Firefox e clicando no botão “Instalar”: https://addons.mozilla.org/en-GB/firefox/addon/lightbeam-3-0/ . Depois de fazer isso, inicie a extensão clicando em seu ícone e comece a visitar algumas páginas da web em outras abas para ver o que acontece.</h2>
+
+O procedimento descrito para instalar e usar a extensão Lightbeam no Firefox permite que você visualize as conexões entre os sites que visita e os terceiros que coletam seus dados.
+
+A Lightbeam é uma ferramenta de visualização que mostra de maneira gráfica como os sites que você acessa diretamente estão conectados a outros sites através de cookies, scripts ou outras técnicas de rastreamento. Quando você visita uma página da web, a extensão monitora as conexões criadas entre o site principal e outros domínios (como redes de anúncios ou serviços de análise) e exibe essas relações em um gráfico.
+
+<h2>7 - Qual é a coisa mais importante ao usar um gerenciador de senhas?</h2>
+
+A senha mestra seja forte e segura: Ela deve ser única, longa e complexa, evitando padrões comuns como datas de nascimento, CEPs ou sequências fáceis de adivinhar. Isso garante que o acesso ao seu gerenciador de senhas seja bem protegido, já que essa senha mestra dá acesso a todas as suas outras senhas.
+
+Use senhas únicas e criptografadas para cada serviço: O gerenciador de senhas permite que você gere e armazene senhas seguras e diferentes para cada conta ou serviço que você utiliza. Assim, mesmo que uma senha seja comprometida, as outras contas permanecem seguras.
+
+<h2>8 - Use seu navegador da web para navegar até https://haveibeenpwned.com/ . Descubra o propósito do site e verifique se seu endereço de e-mail foi incluído em algum vazamento de dados.</h2>
+O site Have I Been Pwned é uma ferramenta que permite aos usuários verificarem se suas informações pessoais, como endereços de e-mail, foram expostas em vazamentos de dados. Ele coleta informações de várias brechas de segurança em serviços e websites e permite que você pesquise por seu e-mail para saber se ele foi comprometido em algum desses incidentes.
