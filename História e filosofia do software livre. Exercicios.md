@@ -247,7 +247,7 @@ Para usar DNT
 Para usar criptografia durante a transmissão de dados
 
 <h2>2 - O que é OpenStack?</h2>
-<strong>Um projeto que permite a criação de IaaS privado</strong>
+<strong>Um projeto que permite a criação de IaaS privado</strong><br>
 OpenStack é um projeto de código aberto que permite a criação de uma infraestrutura como serviço (IaaS) privada ou pública. Ele fornece ferramentas para gerenciar recursos de computação, armazenamento e rede em um data center, permitindo a criação de ambientes de nuvem escaláveis.
 
 Um projeto que permite a criação de PaaS privado
@@ -266,7 +266,7 @@ dm-crypt e KeePass
 
 EncFS e Bitwarden
 
-<strong>EncFS e dm-crypt</strong>
+<strong>EncFS e dm-crypt</strong><br>
 EncFS e dm-crypt são ambos softwares de criptografia de disco. EncFS é uma solução de criptografia de dispositivo empilhado, e dm-crypt é uma solução de criptografia de bloco usada no Linux.<br>
 
 TLS e dm-crypt
