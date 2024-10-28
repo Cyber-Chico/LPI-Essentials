@@ -67,3 +67,10 @@ Para disponibilizar uma variável local para subprocessos, podemos transformá-l
 greeting=hello
 export greeting
 
+A variável de ambiente PATH é essencial no Linux, armazenando uma lista de diretórios que contêm programas executáveis, permitindo ao shell localizar e executar comandos sem precisar de seus caminhos completos. Diretórios podem ser adicionados ao PATH usando o sinal de dois pontos :.
+
+Por exemplo:
+
+PATH=$PATH:/home/user/bin
+
+O comando which ajuda a localizar onde os executáveis estão armazenados no PATH, como no caso do nano, localizado em /usr/bin/nano. Se um diretório necessário for removido de PATH, comandos nele contidos não funcionarão. Ao restaurar o PATH original, o comando volta a ser encontrado e executado corretamente.
