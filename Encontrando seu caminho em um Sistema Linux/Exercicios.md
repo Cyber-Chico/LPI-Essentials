@@ -49,3 +49,47 @@ rm game{1..5} ou rm game*
 
 <h2>6 - Existe alguma outra maneira de fazer dois comandos interagirem um com o outro? Quais são essas?</h2>
 Sim, além de adicionar opções, outra maneira muito comum de fazer dois ou mais comandos interagirem no Bash é através de redirecionamento e pipe (|).
+
+<h1>Lição 2</h1>
+<h2>1 - Crie uma variável local number. </h2>
+# number=(número desejado)
+
+<h2>2 - Crie uma variável de ambiente ORDER usando um dos dois métodos acima.</h2>
+ORDER="your_value"
+export ORDER
+
+export ORDER="your_value"
+
+<h2>3 - Exiba o nome das variáveis e seu conteúdo.</h2>
+echo $number<br>
+echo $ORDER
+
+<h2>4 - Qual o escopo das variáveis criadas anteriormente?</h2>
+number: É uma variável local e, portanto, seu escopo é restrito ao shell atual onde foi definida. Ela não estará disponível em subprocessos iniciados a partir desse shell.
+
+ORDER: É uma variável de ambiente, então seu escopo abrange o shell atual e todos os subprocessos gerados a partir dele. Isso permite que ORDER seja acessada em comandos ou scripts executados nesse shell e em seus subprocessos.
+
+<h2>5 - Crie uma variável local nr_files e atribua o número de linhas encontrado no arquivo /etc/passwd. Dica: pesquise sobre o comando wc e substituição de comandos, e não se esqueça das aspas.</h2>
+Para criar a variável local nr_files e atribuir a ela o número de linhas do arquivo /etc/passwd, você pode usar o comando wc -l junto com substituição de comandos. Aqui está como fazer:
+
+nr_files="$(wc -l < /etc/passwd)"
+Esse comando conta as linhas do arquivo /etc/passwd e armazena o resultado em nr_files. A substituição de comandos $(...) captura a saída do comando e atribui à variável. As aspas garantem que o valor seja tratado corretamente, mesmo que contenha espaços ou caracteres especiais.
+
+<h2>6 - Crie uma variável de ambiente ME. Atribua a ela o valor de variável USER.</h2>
+ME="$USER"
+export ME
+
+<h2>7 - Inclua o valor da variável HOME a ME, usando o delimitador :. Exiba o conteúdo da variável ME.</h2>
+ME="$USER:$HOME"
+export ME
+echo "$ME"
+
+<h2>8 - Usando o exemplo acima, crie uma variável chamada today e atribua a data de um dos fusos horários.</h2>
+today="$(TZ='UTC' date)"<br>
+echo "$today"
+
+<h2>9 - Crie outra variável chamada today1 e atribua a ela a data do sistema.</h2>
+today1="$(date)"
+
+echo "$today1"
+
